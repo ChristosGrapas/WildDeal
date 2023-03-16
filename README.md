@@ -1,4 +1,4 @@
-# THe Wild Deal 
+# The Wild Deal 
 This study aims to highlight the  urgency of environmental connectivity  through rewilded landscapes given  back to nature as part of wild species.
 By identifying the possible conflicts between human - boar activity as well as by locating the four areas with the highest natural connectivity, this project explores the potential of land types and the built space to be transformed into rewilded landscapes. By creating rewilded landscapes, the “Wild Deal” takes into consideration the ways that both human and boar could benefit from the adaptation of wildlife to peri-urban environments and vice versa
 
