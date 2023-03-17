@@ -16,3 +16,9 @@ By identifying the possible conflicts between human - boar activity as well as b
 The methodology involves the utilization of (a) GIS technology, (b) circuit theory-based software for modelling connectivity in complex landscapes, and (c) algorithmic design software for processing connectivity analysis data. The model has potential applications in analyzing the movement and distribution of plant and animal species, identifying ecologically significant areas for conservation efforts, designing natural corridors to facilitate species migration, and pinpointing critical locations for environmental emergency management.
 
 ![A3 IMAGES LAYOUT_Wild_Deal-4](https://user-images.githubusercontent.com/128100178/225910575-4ac91e33-2cf7-4388-94b2-b02d2ee4d34c.png)
+
+# Software Requirements:
+
+1. **QGis**. The connectivity analysis is based on the classification of land uses from the CORINE Land Cover (CLC) inventory. After downloading the rasterfile from the CLC the reclassification aims at creating different kinds of resistances per selected land-use. The process in QGis will be done as soon as we also set the points of  our interest. In this case we set them in the areas habitated by wild species. 
+2. 
+3. **Circuiscape**. Circuitscape is an award-winning connectivity analysis software package which borrows algorithms from electronic circuit theory to predict patterns of movement, gene flow, and genetic differentiation among plant and animal populations in heterogeneous landscapes. Importing the resistances and the points of attraction constructed in QGis the program will produce a geo-located raster file, which can be imported again back to the QGis. 
