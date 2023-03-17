@@ -4,7 +4,8 @@ By identifying the possible conflicts between human - boar activity as well as b
 
 **The Wild Deal is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Master in City & Technology 01 - 2022-2023 by the student(s), Christos Grapas,  Reda Petravičiūtė and Roman Pomazan during the course MaCT01 22/23 Internet of Cities with Eduardo Rico, Mathilde Marengo and Iacopo Neri.**
 
-![Wild Deal Connectivity_V2](https://user-images.githubusercontent.com/128100178/225777092-a9386c8d-fc53-4f19-a0f2-66c183d456f4.png)
+![Map_1](https://user-images.githubusercontent.com/128100178/225778733-d495068d-fbfe-4bbd-83b5-3949c7352fbc.png)
+
 
 **This study employs geographic information systems and algorithmic planning techniques to assess the ecological connectivity of peri-urban areas in Barcelona based on land use, in order to identify potential sites that contribute to fragmentation of natural habitats and biodiversity loss.**
 
