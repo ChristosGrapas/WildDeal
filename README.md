@@ -10,7 +10,8 @@ This study employs geographic information systems and algorithmic planning techn
 
 ![Selected Areas_ Connectivity_cg](https://user-images.githubusercontent.com/128100178/225777718-7e6b14a4-e995-4ea7-b45b-7446cec99ccb.png)
 
-**Filtering the four areas with the highest connectivity around Barcelona: **
+**Filtering the four areas with the highest connectivity around Barcelona:**
+
 By using the two methods of analysis, we identified the four main corridors of connectivity between Collserola Natural Park and its environments. The four areas are visualized below related to the existing identity of each area, the main stakeholders that potentially could relate to the project as well as the natural connectivity for each selected area. In order to narrow down our future interventions we did the connectivity agin but this time for each one of the selected areas. What we noticed is that even the most connected areas are heavily influenced by roads and infrastructure.
 
 ![Proposed_Master_](https://user-images.githubusercontent.com/128100178/225778332-ca93c1d7-f1a7-4df3-bfb3-e1a418a510e1.png)
