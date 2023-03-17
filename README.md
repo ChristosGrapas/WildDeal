@@ -2,7 +2,7 @@
 
 **The Wild Deal is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Master in City & Technology 01 - 2022-2023 by the student(s), Christos Grapas,  Reda Petravičiūtė and Roman Pomazan during the course MaCT01 22/23 Internet of Cities with Eduardo Rico, Mathilde Marengo and Iacopo Neri.**
 
-![Wild Deal Connectivity](https://user-images.githubusercontent.com/128100178/225778869-3dd00295-0a55-4b69-b3ca-4a155242fe2b.png)
+![Vectorized_Agriculture](https://user-images.githubusercontent.com/128100178/225915828-75987d9a-f0a4-4b7e-bfb4-b8e69502613e.gif)
 
 This study aims to highlight the  urgency of environmental connectivity  through rewilded landscapes given  back to nature as part of wild species.
 By identifying the possible conflicts between human - boar activity as well as by locating the four areas with the highest natural connectivity, this project explores the potential of land types and the built space to be transformed into rewilded landscapes. By creating rewilded landscapes, the “Wild Deal” takes into consideration the ways that both human and wild spcecies could benefit from the adaptation of wildlife to peri-urban environments and vice versa
